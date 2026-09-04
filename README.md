@@ -131,4 +131,5 @@ Place the downloaded file at:
 
 ```
 models/ensemble_best.pth
+data/ensemble_best.pth
 ```
