@@ -122,10 +122,10 @@ https://drive.google.com/file/d/1j53hFdPRBku2z7xiIQqnrqpGc8Io_iVT/view?usp=drive
 
 Or via command line:
 
-`bash
+```bash
 pip install gdown
 gdown https://drive.google.com/file/d/1j53hFdPRBku2z7xiIQqnrqpGc8Io_iVT/view?usp=drive_link
-\\\`
+```
 
 Place the downloaded file at:
 
