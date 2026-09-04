@@ -1,0 +1,9 @@
+streamlit>=1.36
+streamlit-webrtc>=0.47.9
+av>=11.0
+torch>=2.2
+torchvision>=0.17
+timm>=0.9.16
+numpy>=1.26
+Pillow>=10.0
+opencv-python-headless>=4.9
