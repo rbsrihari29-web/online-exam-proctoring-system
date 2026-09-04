@@ -114,3 +114,21 @@ agwfn-dashboard/
 ├── .gitattributes       # Git LFS tracking for *.pt/*.pth
 └── .gitignore
 ```
+## 2. Download trained weights
+
+Download ensemble_best.pth from Google Drive:
+
+https://drive.google.com/file/d/1j53hFdPRBku2z7xiIQqnrqpGc8Io_iVT/view?usp=drive_link
+
+Or via command line:
+
+\\\`bash
+pip install gdown
+gdown https://drive.google.com/uc?id=FILE_ID
+\\\`
+
+Place the downloaded file at:
+
+\\\`
+models/ensemble_best.pth
+\\\`
