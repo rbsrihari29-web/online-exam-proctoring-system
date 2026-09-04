@@ -129,6 +129,6 @@ gdown https://drive.google.com/file/d/1j53hFdPRBku2z7xiIQqnrqpGc8Io_iVT/view?usp
 
 Place the downloaded file at:
 
-\\\`
+```
 models/ensemble_best.pth
-\\\`
+```
